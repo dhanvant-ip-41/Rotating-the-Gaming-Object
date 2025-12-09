@@ -60,6 +60,7 @@ public class NewBehaviourScript : MonoBehaviour
 ## Output:
 ![hari arvr ex1](https://github.com/hariprasath5106/Rotating-the-Gaming-Object/assets/111515488/80707767-d7fb-4146-91b1-34c44abe7bba)
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2145b3af-1d2f-4b5a-baf0-7d27829b7048" />
 
 ## Result:
 Thus the output for the rotating the object successfully displayed.
